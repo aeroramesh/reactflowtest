@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@emotion/react": "11.10.6",
+    "@emotion/styled": "11.10.6",
+    "@mui/icons-material": "5.11.11",
+    "@mui/material": "5.11.15",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-flow-renderer": "10.3.17",
+    "react-scripts": "^4.0.0",
+    "reactflow": "11.8.2"
+  },
+  "main": "/index.js",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "name": "c23tvc",
+  "description": null,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
